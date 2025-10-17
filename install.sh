@@ -4,7 +4,7 @@ set -e
 # DevPod Installer
 # Usage: curl -fsSL https://raw.githubusercontent.com/spangbaryn/devpod/main/install.sh | bash
 
-REPO="spangbaryn/devpod"
+REPO="spangbaryn/devpod-dist"
 INSTALL_DIR="/usr/local/bin"
 BINARY_NAME="devpod"
 
